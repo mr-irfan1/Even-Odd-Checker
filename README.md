@@ -2,6 +2,8 @@
 
 A simple Flask web application that checks whether a given number is even or odd.
 
+🚀 Live App: https://even-odd-checker.onrender.com
+
 ## Description
 
 Even Odd Checker is a minimalist web application built with Flask that allows users to input a number and instantly determine if it's even or odd. The application features a clean, modern UI with a responsive design.
